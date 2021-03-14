@@ -1,0 +1,21 @@
+{
+  "name": "google-map-typescript",
+  "version": "1.0.0",
+  "description": "randomly generator user & company on google map",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["google map typescript", "typescript project", "wavefly", "google map project"],
+  "author": "wavefly",
+  "license": "MIT",
+  "dependencies": {
+    "@types/faker": "^5.1.7",
+    "@types/googlemaps": "^3.43.3",
+    "axios": "^0.21.1",
+    "faker": "^5.4.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
